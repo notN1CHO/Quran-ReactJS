@@ -51,7 +51,7 @@ src/
 │  ├─ Player.jsx     # audio player (progress, volume, controls)
 │  ├─ List.jsx       # ayah list (Arabic + translation)
 │  └─ Control.jsx    # reciter & surah selectors, start button
-└─ index.jsx
+└─ main.jsx
 ```
 
 ---
